@@ -16,14 +16,16 @@ class Solution {
             int count=0;
             for(int i:nums){
                
-                long quo=(i+(long)mid-1)/mid;
-                if(quo == 1){
+                if(i<=mid){
                     count++;
                     if(count==k){
-                        b_count++;
-                        count=0;
-                    }
-                }else{
+                    b_count++;
+                    count=0;
+
+                }
+                }
+                
+                else{
                     count=0;
                 }
             }
