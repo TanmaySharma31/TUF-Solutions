@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **21** | 0 | 21 | 0 | `2026-10-22` |
+| **22** | 0 | 22 | 0 | `2026-10-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (21)
+### DSA (22)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -27,16 +27,17 @@
 | 0009 | [899. Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
 | 0010 | [91. Koko eating bananas](./DSA/General/koko-eating-bananas) | [JAVA](./DSA/General/koko-eating-bananas/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 | 0011 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [JAVA](./DSA/General/kth-missing-positive-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0012 | [729. Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
-| 0013 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0014 | [354. Minimum days to make M bouquets](./DSA/General/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/General/minimum-days-to-make-m-bouquets/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0015 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-10-20` |
-| 0016 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0017 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0018 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
-| 0019 | [2. Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
-| 0020 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0021 | [750. Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
+| 0012 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [JAVA](./DSA/Strings/longest-substring-without-repeating-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-22` |
+| 0013 | [729. Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
+| 0014 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `General` | `2026-10-22` |
+| 0015 | [354. Minimum days to make M bouquets](./DSA/General/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/General/minimum-days-to-make-m-bouquets/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0016 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-10-20` |
+| 0017 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0018 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0019 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
+| 0020 | [2. Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
+| 0021 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0022 | [750. Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-26` |
 
 ---
 
